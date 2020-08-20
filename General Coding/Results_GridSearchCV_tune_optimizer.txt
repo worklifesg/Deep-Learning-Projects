@@ -1,0 +1,8 @@
+Best: 0.709635 using {'optimizer': 'Adam'}
+0.649740 (0.018414) with: {'optimizer': 'SGD'}
+0.621094 (0.049821) with: {'optimizer': 'RMSprop'}
+0.513021 (0.105268) with: {'optimizer': 'Adagrad'}
+0.436198 (0.090230) with: {'optimizer': 'Adadelta'}
+0.709635 (0.033502) with: {'optimizer': 'Adam'}
+0.647135 (0.038318) with: {'optimizer': 'Adamax'}
+0.707031 (0.022999) with: {'optimizer': 'Nadam'}
