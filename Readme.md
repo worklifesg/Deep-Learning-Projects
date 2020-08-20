@@ -24,4 +24,5 @@ undertaken from [Deep Learning with Python by Jason Brownlee](https://machinelea
       * [Tune Batch Size and Number of Epochs](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/General%20Coding/1.%20GridSearchCV_tune_batchepoch.py)
       * [Tune the Training Optimization Algorithm](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/General%20Coding/2.%20GridSearchCV_tune_optimization_algorithm.py)
       * [Tune Learning Rate and Momentum](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/General%20Coding/3.%20GridSearchCV_tune_learningrate_momentum.py)
+      * [Tune Neuron Activation Function](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/General%20Coding/4.%20GridSearchCV_tune_ActivationFunction.py)
     
