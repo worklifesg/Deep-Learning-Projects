@@ -10,6 +10,15 @@ undertaken from [Deep Learning with Python by Jason Brownlee](https://machinelea
 * [Classification-Project-Keras](#classification-project-keras)
 
 ### General Deep Learning Codes
-
+  * The dataset used for this section is on [Pima Indians Diabetes](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/General%20Coding/pima-indians-diabetes.csv)
   * Evaluating the performance of deep learning models
-  * Using Keras models with scikit-learn for general machine learning
+    * [Automatic and Manual Dataset verification using Keras](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/General%20Coding/Data_Splitting_Automatic_Manual_Verification_Dataset.py)
+    * [Manual k-Fold Cross Validation using Keras](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/General%20Coding/Kfold_Keras.py)
+  * Using Keras models integrated with scikit-learn for general machine learning and deep learning concepts
+    * [Evaluate Models with Cross Validation (Wrapped) using Keras](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/General%20Coding/kfold_cross_validation_wrapped.py)
+    * Tuning deep learning algorithms, optimizers and parameters using GridSearchCV
+    
+      * [Tune Batch Size and Number of Epochs](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/General%20Coding/1.%20GridSearchCV_tune_batchepoch.py)
+      * [Tune the Training Optimization Algorithm](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/General%20Coding/2.%20GridSearchCV_tune_optimization_algorithm.py)
+      * [Tune Learning Rate and Momentum](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/General%20Coding/3.%20GridSearchCV_tune_learningrate_momentum.py)
+    
