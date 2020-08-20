@@ -1,0 +1,11 @@
+accuracy: 72.73%
+accuracy: 77.92%
+accuracy: 74.03%
+accuracy: 75.32%
+accuracy: 72.73%
+accuracy: 64.94%
+accuracy: 66.23%
+accuracy: 71.43%
+accuracy: 69.74%
+accuracy: 77.63%
+72.27% (+/- 4.13%)
