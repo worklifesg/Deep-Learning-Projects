@@ -11,9 +11,12 @@ undertaken from [Deep Learning with Python by Jason Brownlee](https://machinelea
 
 ### General Deep Learning Codes
   * The dataset used for this section is on [Pima Indians Diabetes](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/General%20Coding/pima-indians-diabetes.csv)
+  
   * Evaluating the performance of deep learning models
+  
     * [Automatic and Manual Dataset verification using Keras](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/General%20Coding/Data_Splitting_Automatic_Manual_Verification_Dataset.py)
     * [Manual k-Fold Cross Validation using Keras](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/General%20Coding/Kfold_Keras.py)
+    
   * Using Keras models integrated with scikit-learn for general machine learning and deep learning concepts
     * [Evaluate Models with Cross Validation (Wrapped) using Keras](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/General%20Coding/kfold_cross_validation_wrapped.py)
     * Tuning deep learning algorithms, optimizers and parameters using GridSearchCV
