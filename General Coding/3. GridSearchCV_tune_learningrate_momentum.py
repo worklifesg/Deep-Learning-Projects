@@ -13,7 +13,7 @@ from keras.optimizers import SGD
 from sklearn.model_selection import GridSearchCV
 
 # Defining model function
-def model_func():
+def model_func(learn_rate=0.001,momentum=0.9):
     model=Sequential()
     model.add(Dense(12,activation='relu',input_dim=8))
     model.add(Dense(8,activation='relu'))
