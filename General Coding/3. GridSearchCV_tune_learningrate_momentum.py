@@ -46,8 +46,8 @@ grid=GridSearchCV(estimator=model,param_grid=param_grid,n_jobs=-1,cv=3)
 grid_results=grid.fit(X,y)
 
 #Results
-with open('Results_GridSearchCV_tune_LR_momentum','a') as f:
-    print('Best %f using %s' % (grid_results.best_score_,grid_results.best_params_))
+with open('Results_GridSearchCV_tune_LR_momentum.txt','a') as f:
+    print('Best %f using %s' % (grid_results.best_score_,grid_results.best_params_),file=f)
 means=grid_results.cv_results_['mean_test_score']
 stds=grid_results.cv_results_['std_test_score']
 params=grid_results.cv_results_['params']
