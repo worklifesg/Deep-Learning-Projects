@@ -1,0 +1,1 @@
+The mean score is  0.7318010985851288
