@@ -54,3 +54,19 @@ Task 8: Predictions
 
     Predictions on the test set.
     Visualizing the predictions.
+
+## Glossary
+
+Here's a brief description of terms used in the Basic Image Classification hands on project:
+
+    Keras - A high level API for neural networks which can run with TensorFlow, CNTK or Theano as its back end.
+    TensorFlow - An open source platform and framework for creating, training, evaluating and deploying machine learning models.
+    Neural Network - A Computing system that works as universal function approximator by learning correlations between given input and output data.
+    MNIST - A dataset of handwritten digits that is commonly used for training various image processing systems.
+    matplotlib - A plotting library for the Python programming language.
+    One Hot Encoding - Encoding used for representation of categorical output labels. A valid label can only have a single high score in a group of classes, and all the other classes must have low scores.
+    Vector - An object with a magnitude and a direction in a multi-dimensional space.
+    Dense Layer - A neural network layer in which all the nodes are connected to all the nodes of the preceding layer.
+    Activation Function - Typically desired to be a non-linear function which can serve output for various nodes in neural networks.
+    Loss Function - A function that computes some measure of difference between a model's predicted values and true labels given in a dataset.
+    Optimizer - An algorithm that aims to minimize output of a loss function by updating parameters of a model that is being trained.
