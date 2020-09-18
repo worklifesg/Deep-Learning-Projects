@@ -1,13 +1,12 @@
-# Deep Learning Projects
+# Deep Learning/ Machine Learning Projects
 
-This repository is created for general understanding coding and its related projects on deep learning topics. These projects involve working on machine learning and deep
-learning concepts using Keras, PyTorch, TensorFlow libraries using Python Code. This repository is updated on regular basis dependent upon project studies. These projects are
-undertaken from [Deep Learning with Python by Jason Brownlee](https://machinelearningmastery.com/deep-learning-with-python/)
+This repository is created for general understanding coding and its related projects on machine learning and deep learning topics. These projects involve working on machine learning and deep learning concepts using Keras, PyTorch, TensorFlow libraries using Python Code. This repository is updated on regular basis dependent upon project studies. Some of the projects are undertaken from [Deep Learning with Python by Jason Brownlee](https://machinelearningmastery.com/deep-learning-with-python/), from Coursera guided projects, and Kaggle.com.
 
 ## Table of contents
 * [General Deep Learning Codes](#general-deep-learning-codes)
-* [Regression-Project-Keras](#regression-project-keras)
-* [Classification-Project-Keras](#classification-project-keras)
+* [Coursera Guided Projects](#coursera-guided-projects)
+<!---* [Regression-Project-Keras](#regression-project-keras))
+* [Classification-Project-Keras](#classification-project-keras) --->
 
 ### General Deep Learning Codes
   * The dataset used for this section is on [Pima Indians Diabetes](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/General%20Coding/pima-indians-diabetes.csv)
@@ -26,3 +25,6 @@ undertaken from [Deep Learning with Python by Jason Brownlee](https://machinelea
       * [Tune Learning Rate and Momentum](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/General%20Coding/3.%20GridSearchCV_tune_learningrate_momentum.py)
       * [Tune Neuron Activation Function](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/General%20Coding/4.%20GridSearchCV_tune_ActivationFunction.py)
     
+### Coursera Guided Projects
+  * Basic Image Classification with TensorFlow [[Project Folder](https://github.com/worklifesg/Deep-Learning-Projects/tree/master/Coursera%20Guided%20Projects/Basic%20Image%20Classification%20with%20TensorFlow)], [[Project Description](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/Coursera%20Guided%20Projects/Basic%20Image%20Classification%20with%20TensorFlow/Readme.md)],[[Notebook](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/Coursera%20Guided%20Projects/Basic%20Image%20Classification%20with%20TensorFlow/Project_Image_Classification_Keras.ipynb)]
+  * Basic Image Classification with TensorFlow [[Project Folder](https://github.com/worklifesg/Deep-Learning-Projects/tree/master/Coursera%20Guided%20Projects/Image%20Classification%20with%20CNNs%20using%20Keras)], [[Project Description](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/Coursera%20Guided%20Projects/Image%20Classification%20with%20CNNs%20using%20Keras/Readme.md)],[[Notebook 1](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/Coursera%20Guided%20Projects/Image%20Classification%20with%20CNNs%20using%20Keras/Image%20Classification%20with%20CNN%20using%20Keras.ipynb)],[[Notebook 2](https://github.com/worklifesg/Deep-Learning-Projects/blob/master/Coursera%20Guided%20Projects/Image%20Classification%20with%20CNNs%20using%20Keras/Image%20Classification%20with%20CNNs%20-%20CIFAR-10%20Dataset.ipynb)]
