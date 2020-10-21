@@ -33,4 +33,6 @@ In this project, we have analyzed 2 programs:
   
 ## DCGAN generated images gif
 
-![Alt Text](https://media.giphy.com/media/3yCSuhCERwrVhH0Hqx/giphy.gif)
+![Alt Text](https://media.giphy.com/media/3yCSuhCERwrVhH0Hqx/giphy.gif) ![Alt Text](https://media.giphy.com/media/cGnl6XJYxaTpeMvYMQ/giphy.gif)
+
+ 
