@@ -1,5 +1,11 @@
 ## Project
 Generate Synthetic Images with DCGANs in Keras
+
+![1](https://img.shields.io/badge/Platform-AWS%20SageMaker-orange) 
+![2](https://img.shields.io/badge/Kernel-TensorFlow%202%20GPU%20Optimized-green) 
+![3](https://img.shields.io/badge/Instance-4%20vCPU%20%2B%2016%20GiB%20%2B%201%20GPU-blue) 
+![4](https://img.shields.io/badge/Dataset-Fashion%20MNIST-red)
+
 ## Guidelines
 In this course, we are going to focus on two learning objectives:
 
